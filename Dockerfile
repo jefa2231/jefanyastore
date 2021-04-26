@@ -1,4 +1,4 @@
-FROM heinzdf/jefanyastore:buster
+FROM heinzdf/oubnew:buster
  
 # Clone repo and prepare working directory
 RUN git clone -b sql-extended https://github.com/jefanya14/jefanyastore /jefanyastore
