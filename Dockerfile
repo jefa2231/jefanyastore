@@ -1,9 +1,9 @@
-FROM heinzdf/oubnew:buster
+FROM heinzdf/jefanyastore:buster
  
 # Clone repo and prepare working directory
-RUN git clone -b sql-extended https://github.com/fortifying/OUBnew /OUBnew
-RUN chmod 777 /OUBnew
-WORKDIR /OUBnew
+RUN git clone -b sql-extended https://github.com/jefanya14/jefanyastore /jefanyastore
+RUN chmod 777 /jefanyastore
+WORKDIR /jefanyastore
  
 # Copies session and config (if it exists)
 COPY ./sample_config.env ./userbot.session* ./config.env* /root/userbot/

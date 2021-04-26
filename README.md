@@ -26,7 +26,7 @@
 <p align="center">&nbsp;</p>
 
 # Easy way to deploy
-<p><a href="https://heroku.com/deploy?template=https://github.com/fortifying/OUBnew/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/jefanya14/jefanyastore/tree/sql-extended"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 <p align="center">&nbsp;</p>
@@ -57,4 +57,4 @@ Also join <a href="https://t.me/userbotindo">Userbot INDO🇮🇩</a> Telegram G
 
 <p align="center">&nbsp;</p>
 <h2 align="center">License</h2>
-<p align="center"><a href="https://github.com/fortifying/OUBnew/blob/sql-extended/LICENSE">Raphielscape Public License</a> - Version 1.d, July 2020</p>
+<p align="center"><a href="https://github.com/jefanya14/jefanyastore/blob/sql-extended/LICENSE">Raphielscape Public License</a> - Version 1.d, July 2020</p>
