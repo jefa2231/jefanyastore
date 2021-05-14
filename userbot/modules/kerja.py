@@ -114,7 +114,7 @@ async def typewriter(typew):
 			 f"`25GB Web Space`\n"
 			 f"`Unlimited Bandwith`\n"
 			 f"`Free SSL Certificate`\n"
-			 f"Dukung saya dengan cara join di channel saya! [klik disini](http://t.me/jejakcheat14)")
+			 f"Dukung saya dengan cara join di channel saya! [klik disini](http://t.me/Jejakcheat14)")
 	
 	
 @register(outgoing=True, pattern='^.proses(?: |$)(.*)')
@@ -122,7 +122,7 @@ async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
 	await typew.edit("OK, Saya Akan Mengirimkan result dengan cara LIVE. Jadi nnti kalau sudah proses atau sudah giliranmu akan saya beritahu ~ Terimakasih \n"
-			 f"Info Lebih Lanjut! [klik disini](http://t.me/jejakcheat14)")
+			 f"Info Lebih Lanjut! [klik disini](http://t.me/Jejakcheat14)")
 
 @register(outgoing=True, pattern='^.mwhm(?: |$)(.*)')
 async def typewriter(typew):
@@ -133,7 +133,7 @@ async def typewriter(typew):
 			 f"MEDIUM : 100.000\n"
 			 f"EXTRA : 120.000\n"
 			 f"SUPER : 150.000\n"
-			 f"Info Lebih Lanjut! [klik disini](http://t.me/jejakcheat14)")
+			 f"Info Lebih Lanjut! [klik disini](http://t.me/Jejakcheat14)")
 
 
 @register(outgoing=True, pattern='^.full(?: |$)(.*)')
@@ -141,7 +141,7 @@ async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
 	await typew.edit("Mohon Maaf, Untuk sekarang result live **FULL** \n"
-			 f"Info Lebih Lanjut! [klik disini](http://t.me/jejakcheat14)")
+			 f"Info Lebih Lanjut! [klik disini](http://t.me/Jejakcheat14)")
 
 
 @register(outgoing=True, pattern='^.jual(?: |$)(.*)')
@@ -155,8 +155,8 @@ async def typewriter(typew):
 			 f"Subdomain : Rp. 20.000 `Tidak bisa request apapun kecuali request tampilan website`\n\n"
 			 f"Payment via : BCA, OVO, TELKOMSEL\n"
 			 f"Mau lihat tampilan web ? Yuk ke demo [klik di sini](https://senturypanel.com/)\n\n"
-			 f"Chat ? [Jefanya Efandchris](http://t.me/jefanya14)\n"
-			 f"Join channel telegram yuk! [klik disini](http://t.me/jejakcheat14)")
+			 f"Chat ? [Jefanya Efandchris](http://t.me/Jejakcheat)\n"
+			 f"Join channel telegram yuk! [klik disini](http://t.me/Jejakcheat14)")
 
 
 @register(outgoing=True, pattern='^.demo(?: |$)(.*)')
@@ -202,7 +202,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`Saya jelaskan untuk perbedaan domain dan subdomain .\n\nDomain (pubg.com) **langsung tidak ada tambahan sama sekali\n\nSubdomain ( blablabla.pubg.com ) **ada Tambahan di depan domainnya .\n\nBot By : [#Jefanya](t.me/jefanya14)")
+	await typew.edit("`Saya jelaskan untuk perbedaan domain dan subdomain .\n\nDomain (pubg.com) **langsung tidak ada tambahan sama sekali\n\nSubdomain ( blablabla.pubg.com ) **ada Tambahan di depan domainnya .\n\nBot By : [#Jefanya](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -210,7 +210,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`BCA : `0901316839 `A/N PILU EFENDI` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`BCA : `0901316839 `A/N PILU EFENDI` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -218,7 +218,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`TELKOMSEL : `082247870713 `A/N -` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`TELKOMSEL : `082247870713 `A/N -` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -226,7 +226,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`BNI : `0830301026 `A/N Jefanya Efandchris` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`BNI : `0830301026 `A/N Jefanya Efandchris` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -234,14 +234,14 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`OVO : `082247870713 `A/N NI KETUT SUERTI` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`OVO : `082247870713 `A/N NI KETUT SUERTI` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 # Create by myself @JejakCheat
 @register(outgoing=True, pattern='^.dana(?: |$)(.*)')
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`DANA : `082247870713` A/N JEFANYA EFANDCHRIS` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`DANA : `085156073629` A/N IDRUN NAFIS` \nSertakan Bukti Transfer Ya (Wajib) Untuk melanjutkan transaksi \nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -249,7 +249,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`Kirim Email + Tampilan yang sudah di request di atas` (Sesuai nama di jefanya.com) \nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`Kirim Email + Tampilan yang sudah di request di atas` (Sesuai nama di jefanya.com) \nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -257,7 +257,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`UPDATE HARGA HARI INI` \n\nDOMAIN : 100.000 (Bisa Request Nama Web)\nDOMAIN : 50.000 (Tidak bisa request nama web) \nSUBDOMAIN : 25.000 \n\nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`UPDATE HARGA HARI INI` \n\nDOMAIN : 100.000 (Bisa Request Nama Web)\nDOMAIN : 50.000 (Tidak bisa request nama web) \nSUBDOMAIN : 25.000 \n\nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -265,7 +265,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("`JIKA ADA ERROR ATAU BUG DI TAMPILAN PHISING KALIAN TINGGAL SURUH TEMAN KALIAN UNTUK MEMBUKA WEB KALIAN ITU \n\nSyarat : \n1. BEDA HP \n2. BEDA SINYAL \n3. BELUM PERNAH BUKA WEB ITU`\nBot By : [#JefanyaBot](t.me/jefanya14)")
+	await typew.edit("`JIKA ADA ERROR ATAU BUG DI TAMPILAN PHISING KALIAN TINGGAL SURUH TEMAN KALIAN UNTUK MEMBUKA WEB KALIAN ITU \n\nSyarat : \n1. BEDA HP \n2. BEDA SINYAL \n3. BELUM PERNAH BUKA WEB ITU`\nBot By : [#JefanyaBot](t.me/JejakCheat)")
 
 
 # Create by myself @JejakCheat
@@ -273,7 +273,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("**EXP TIME !!** \nMaaf bos, phising saya matikan atau saya alihkan ke `exp.senturypanel.xyz` \nDikarenakan Sudah melewati tanggal kadaluarsa \nDan jika mau perpanjang silahkan balas pesan ini  \n Dan jika tidak ingin perpanjang abaikan pesan ini \nBot By : [#JefanyaBot](t.me/jejakcheat14)")
+	await typew.edit("**EXP TIME !!** \nMaaf bos, phising saya matikan atau saya alihkan ke `exp.senturypanel.xyz` \nDikarenakan Sudah melewati tanggal kadaluarsa \nDan jika mau perpanjang silahkan balas pesan ini  \n Dan jika tidak ingin perpanjang abaikan pesan ini \nBot By : [#JefanyaBot](t.me/JejakCheat14)")
 
 
 # Create by myself @JejakCheat
