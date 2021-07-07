@@ -62,7 +62,7 @@ async def typewriter(typew):
 	sleep(0)
 	await typew.edit("Silahkan kirim email anda\n"
 			 f"Dan request tampilan yang ingin anda gunakan\n"
-			 f"List Tampilan : [Klik Disini](https://jefanya.com)")
+			 f"List Tampilan : [Klik Disini](https://jefanya.top)")
 	
 @register(outgoing=True, pattern='^.2(?: |$)(.*)')
 async def typewriter(typew):
