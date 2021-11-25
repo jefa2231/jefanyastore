@@ -114,7 +114,7 @@ async def typewriter(typew):
 			 f"`25GB Web Space`\n"
 			 f"`Unlimited Bandwith`\n"
 			 f"`Free SSL Certificate`\n"
-			 f"Dukung saya dengan cara join di channel saya! [klik disini](http://t.me/Jejakcheat14)")
+			 f"Dukung saya dengan cara join di channel saya! [klik disini](http://t.me/jefanya14)")
 	
 	
 @register(outgoing=True, pattern='^.proses(?: |$)(.*)')
@@ -122,7 +122,7 @@ async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
 	await typew.edit("OK, Saya Akan Mengirimkan result dengan cara LIVE. Jadi nnti kalau sudah proses atau sudah giliranmu akan saya beritahu ~ Terimakasih \n"
-			 f"Info Lebih Lanjut! [klik disini](http://t.me/Jejakcheat14)")
+			 f"Info Lebih Lanjut! [klik disini](http://t.me/jefanya14)")
 
 @register(outgoing=True, pattern='^.mwhm(?: |$)(.*)')
 async def typewriter(typew):
@@ -133,7 +133,7 @@ async def typewriter(typew):
 			 f"MEDIUM : 100.000\n"
 			 f"EXTRA : 120.000\n"
 			 f"SUPER : 150.000\n"
-			 f"Info Lebih Lanjut! [klik disini](http://t.me/Jejakcheat14)")
+			 f"Info Lebih Lanjut! [klik disini](http://t.me/jefanya14)")
 
 
 @register(outgoing=True, pattern='^.full(?: |$)(.*)')
@@ -141,7 +141,7 @@ async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
 	await typew.edit("Mohon Maaf, Untuk sekarang result live **FULL** \n"
-			 f"Info Lebih Lanjut! [klik disini](http://t.me/Jejakcheat14)")
+			 f"Info Lebih Lanjut! [klik disini](http://t.me/jefanya14)")
 
 
 @register(outgoing=True, pattern='^.jual(?: |$)(.*)')
@@ -156,7 +156,7 @@ async def typewriter(typew):
 			 f"Payment via : BCA, OVO, TELKOMSEL\n"
 			 f"Mau lihat tampilan web ? Yuk ke demo [klik di sini](https://senturypanel.com/)\n\n"
 			 f"Chat ? [Jefanya Efandchris](http://t.me/Jejakcheat)\n"
-			 f"Join channel telegram yuk! [klik disini](http://t.me/Jejakcheat14)")
+			 f"Join channel telegram yuk! [klik disini](http://t.me/jefanya14)")
 
 
 @register(outgoing=True, pattern='^.demo(?: |$)(.*)')
@@ -273,7 +273,7 @@ async def typewriter(typew):
 async def typewriter(typew):
 	message = typew.pattern_match.group(0)
 	sleep(0)
-	await typew.edit("**EXP TIME !!** \nMaaf bos, phising saya matikan atau saya alihkan ke `exp.senturypanel.xyz` \nDikarenakan Sudah melewati tanggal kadaluarsa \nDan jika mau perpanjang silahkan balas pesan ini  \n Dan jika tidak ingin perpanjang abaikan pesan ini \nBot By : [#JefanyaBot](t.me/JejakCheat14)")
+	await typew.edit("**EXP TIME !!** \nMaaf gan, phising saya matikan atau saya alihkan ke `exp.senturypanel.xyz` \nDikarenakan Sudah melewati tanggal kadaluarsa \nDan jika mau perpanjang silahkan balas pesan ini  \n Dan jika tidak ingin perpanjang abaikan pesan ini \nBot By : [#JefanyaBot](t.me/Jefanya14)")
 
 
 # Create by myself @JejakCheat
